@@ -4441,3 +4441,97 @@ td:last-child {
         right: -2rem;
     }
 }
+/* contact section start */
+
+.contact_section {
+    width: 100%;
+    float: left;
+    padding-bottom: 90px;
+}
+
+.contact_taital {
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: #f5c729;
+    font-weight: bold;
+    text-align: center;
+}
+
+.contact_taital_1 {
+    color: #292929;
+    border-bottom: 5px solid #363636;
+}
+
+.contact_section_2 {
+    width: 100%;
+    float: left;
+    padding-top: 55px;
+}
+
+.padding_left_0 {
+    padding-left: 0px;
+}
+
+.mail_section_1 {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.mail_text {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #414140;
+    background-color: #ffffff;
+    border: 1px solid #aaaaa9;
+    padding: 11px 20px;
+    margin-top: 20px;
+}
+
+input.mail_text::placeholder {
+    color: #414140;
+}
+
+.massage-bt {
+    color: #414140;
+    width: 100%;
+    height: 110px;
+    font-size: 18px;
+    background-color: #ffffff;
+    border: 1px solid #aaaaa9;
+    padding: 40px 20px 0px 20px;
+    height: 110px;
+    margin-top: 20px;
+}
+
+textarea#comment.massage-bt::placeholder {
+    color: #414140;
+}
+
+.send_bt {
+    width: 170px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.send_bt a {
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    color: #fefefd;
+    background-color: #fa7e23;
+    padding: 14px;
+    margin-top: 40px;
+    display: block;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.send_bt a:hover {
+    color: #fefefd;
+    background-color: #252f2d;
+}
+
+
+/* contact section end */
